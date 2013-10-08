@@ -1,0 +1,9 @@
+---
+layout: post
+title: "start"
+date: 2013-10-08 14:34
+comments: true
+categories: 
+---
+
+this blog is build now.
